@@ -6,6 +6,7 @@
 * Champiñones
 * Piña
 * Jamon
+
 ##Instrucciones
 * Preparar la masa de la pizza
 * Añadir la salsa de tomate
